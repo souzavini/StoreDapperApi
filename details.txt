@@ -1,0 +1,18 @@
+dotnet --version 
+dotnet --list-sdks
+
+
+1- dotnet new globaljson --sdk-version 2.2.100
+
+2- dotnet new web
+
+3- dotnet new classlib
+
+4-dotnet new sln
+
+5-dotnet sln add Dapper.Api\Dapper.Api.csproj
+
+6-dotnet restore
+
+
+
